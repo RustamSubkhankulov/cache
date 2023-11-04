@@ -1,0 +1,2 @@
+#cmakedefine GEN_EXTRA 
+#cmakedefine GEN_EXTRA_NUM @GEN_EXTRA_NUM@
