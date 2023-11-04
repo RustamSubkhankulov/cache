@@ -2,7 +2,7 @@
 Implementation of LFU cache and its comparison with "perfect" cache algorithm - PCA as I named it. "Perfect" cache algorithm just basically knows future ^-^. Programm also performs simple test of cache by running test on sequence of int values from stdin or using predefined scenarios. 
 
 ### Cloning & Building
- - Firstly, copy source files or clone this repository: <code>git clone git@github.com:RustamSubkhankulov/cpp-course.git</code>.
+ - Firstly, copy source files or clone this repository: <code>git clone git@github.com:RustamSubkhankulov/cache.git</code>.
  - Secondly, change current working directory: 
  <code>cd cache</code>
  - Thirdly, build desired tests:
